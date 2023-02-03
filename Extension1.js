@@ -1,5 +1,3 @@
-// This is a test. This is the example TurboWarp extension code
-
 class MyExtension {
     /**
      * Scratch will call this method *once* when the extension loads.
